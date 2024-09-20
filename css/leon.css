@@ -7,15 +7,6 @@
   --section-padding: 60px 0;
   --main-duration: 0.5s;
 }
-img {
-  max-width: 100%;
-}
-a {
-  text-decoration: none;
-}
-ul {
-  list-style-type: none;
-}
 /* || End Variabels */
 /* Start Global Rules */
 * {
@@ -36,6 +27,21 @@ body {
 .container {
   padding: 0 15px;
   margin: 0 auto;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.fa-youtube {
+  color: hsl(0, 100%, 50%);
+}
+.fa-twitter {
+  color: hsl(204, 100%, 50%);
 }
 /*
 
